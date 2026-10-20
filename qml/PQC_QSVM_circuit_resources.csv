@@ -1,0 +1,4 @@
+Encoding,Qubits,Original Depth,Decomposed Depth,Transpiled Depth,Gate Counts
+Angle encoding,4,1,1,5,"{'rz': 12, 'sx': 8}"
+ZZFeatureMap,4,1,19,23,"{'rz': 30, 'cx': 12, 'sx': 8}"
+Amplitude encoding,2,1,1,11,"{'rz': 9, 'sx': 6, 'cx': 1}"

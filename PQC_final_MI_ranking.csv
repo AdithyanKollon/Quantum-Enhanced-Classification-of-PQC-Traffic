@@ -1,0 +1,9 @@
+Feature,MI_Score,Rank
+e2_client_record_len,0.6740116673024674,1
+e2c_total_bytes,0.6732283339691341,2
+e2_client_size,0.6185210353262407,3
+e2_server_record_len,0.4291955210469247,4
+e5_entropy_c,0.2893067760967549,5
+e6_time_char,0.18680178019103177,6
+e6b_flow_duration_ms,0.10471678740841295,7
+e4_entropy_h,0.0,8

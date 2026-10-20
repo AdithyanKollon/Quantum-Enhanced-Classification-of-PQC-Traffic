@@ -1,0 +1,9 @@
+Feature,Importance_Mean,Importance_Std
+e2c_total_bytes,0.010934305555555551,0.000672318875033479
+e6_time_char,1.1102230246251566e-17,3.33066907387547e-17
+e2_client_record_len,5.551115123125783e-18,2.4196749845665626e-17
+e2_client_size,5.551115123125783e-18,2.4196749845665626e-17
+e5_entropy_c,0.0,0.0
+e4_entropy_h,0.0,0.0
+e6b_flow_duration_ms,0.0,0.0
+e2_server_record_len,0.0,0.0
