@@ -1,0 +1,4 @@
+Encoding,Qubits,Original Depth,Original Gates,Decomposed Depth,Decomposed Gates,Transpiled Depth,Transpiled Gates,Transpiled Gate Types
+Angle_Encoding,4,1,4,1,4,1,4,{'u': 4}
+Amplitude_Encoding,2,1,1,1,2,1,2,{'u': 2}
+ZZFeatureMap,4,19,34,19,34,19,34,"{'u': 22, 'cx': 12}"
