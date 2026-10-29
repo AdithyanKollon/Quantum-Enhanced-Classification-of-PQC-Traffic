@@ -1,0 +1,9 @@
+Feature,Mutual_Information
+e2c_total_bytes,1.7948827817406738
+e2_server_record_len,1.5589033445112364
+e2_client_record_len,0.6983133305329923
+e2_client_size,0.6922046311833201
+e6_time_char,0.6700265617008987
+e5_entropy_c,0.6521253404035843
+e6b_flow_duration_ms,0.09006761105438787
+e4_entropy_h,0.012324519591695005

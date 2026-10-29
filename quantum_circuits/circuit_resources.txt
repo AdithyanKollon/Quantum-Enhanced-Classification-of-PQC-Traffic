@@ -1,0 +1,33 @@
+QUANTUM CIRCUIT RESOURCE REPORT
+These are measurements from this script's circuits and Qiskit environment.
+Transpilation uses the local Qiskit default target, not necessarily the experiment backend.
+
+Angle encoding
+--------------
+Qubits: 4
+Original circuit depth: 1
+Original operation counts: {'ry': 4}
+Transpiled using local Qiskit default target (inspection only)
+Transpiled depth: 1
+Transpiled operation counts: {'ry': 4}
+OpenQASM export is not required for this report.
+
+Amplitude encoding
+------------------
+Qubits: 2
+Original circuit depth: 1
+Original operation counts: {'state_preparation': 1}
+Transpiled using local Qiskit default target (inspection only)
+Transpiled depth: 1
+Transpiled operation counts: {'state_preparation': 1}
+OpenQASM export is not required for this report.
+
+ZZFeatureMap
+------------
+Qubits: 4
+Original circuit depth: 1
+Original operation counts: {'ZZFeatureMap': 1}
+Transpiled using local Qiskit default target (inspection only)
+Transpiled depth: 1
+Transpiled operation counts: {'ZZFeatureMap': 1}
+OpenQASM export is not required for this report.

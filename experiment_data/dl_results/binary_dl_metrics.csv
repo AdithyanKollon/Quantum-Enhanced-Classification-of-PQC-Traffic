@@ -1,0 +1,2 @@
+Task,Model,Accuracy (%),Precision (%),Recall (%),F1 (%),ROC-AUC,Training Time (s),Inference Time (s),Epochs
+binary,MLP,82.0,82.3076923076923,89.16666666666667,85.6,0.9285416666666666,10.636452999999165,0.17785039999580476,68

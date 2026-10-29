@@ -1,0 +1,10 @@
+,precision,recall,f1-score,support
+ML-KEM-1024 + ML-DSA-65,1.0,1.0,1.0,34.0
+ML-KEM-1024 + ML-DSA-87,1.0,1.0,1.0,33.0
+ML-KEM-1024 + RSA,1.0,1.0,1.0,33.0
+ML-KEM-768 + ML-DSA-65,1.0,1.0,1.0,33.0
+ML-KEM-768 + ML-DSA-87,1.0,1.0,1.0,33.0
+ML-KEM-768 + RSA,1.0,1.0,1.0,34.0
+accuracy,1.0,1.0,1.0,1.0
+macro avg,1.0,1.0,1.0,200.0
+weighted avg,1.0,1.0,1.0,200.0

@@ -1,0 +1,2 @@
+Task,Model,Accuracy (%),Precision (%),Recall (%),F1 (%),ROC-AUC,Training Time (s),Inference Time (s),Epochs
+multiclass,MLP,33.0,29.352532679738562,33.14022578728461,30.836435991823443,0.7879178663483547,5.334561199997552,0.15117230000032578,29
